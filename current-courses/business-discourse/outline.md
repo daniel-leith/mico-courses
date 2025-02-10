@@ -1,1 +1,5 @@
-
+## Unit/Theme 1:	Steps to Effective Writing (3 hours)
+## Unit/Theme 2:	Business Letters, Résumés/Curriculum Vitae (12 hours)
+## Unit/Theme 3:	Agenda, Minutes and Memoranda (12 hours)
+## Unit/Theme 4:  Announcements, Notices and Press Releases (9 hours)
+## Unit/Theme 5:	 Business Proposals, Resolutions and Reports (9 hours)
